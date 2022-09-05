@@ -3,5 +3,5 @@ Tutoring service & Educational resources for Junior Cert & Leaving Cert student 
 
 GitHub contains applications developed by Maths Help Ireland
 
-www.mathshelpireland.com
-instagram.com/mathshelp_ireland
+www.mathshelpireland.com\n
+www.instagram.com/mathshelp_ireland

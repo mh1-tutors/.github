@@ -2,7 +2,6 @@
 
 Connecting students to a grinds tutor that best matches their need!
 
-[Online Platform (Coming soon)](https://www.mh1-tutors.com)
-[Previous Website](https://www.mathshelpireland.com) 
-
+[Online Platform (Coming soon)](https://www.mh1-tutors.com)<br/>
+[Previous Website](https://www.mathshelpireland.com)<br/>
 [Instagram](https://www.instagram.com/mathshelp_ireland)

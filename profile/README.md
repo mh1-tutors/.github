@@ -1,4 +1,4 @@
-# MH1 Tutors (ex. Maths Help Ireland)
+# MH1 Tutors
 
 Connecting students to a grinds tutor that best matches their need!
 
